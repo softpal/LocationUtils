@@ -9,7 +9,7 @@
 
 **Features**
 
-Used to Get the current location of mobile user.
+This Library is used to Get the Current Location of the User
 
 
 ## Installation
