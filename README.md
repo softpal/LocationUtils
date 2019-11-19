@@ -9,7 +9,7 @@
 
 **Features**
 
-Get Current Location
+This Library is used to Get the Current Location of the User
 
 
 ## Installation
