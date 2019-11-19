@@ -9,7 +9,7 @@
 
 **Features**
 
-Get Current Location
+Used to Get the current location of mobile user.
 
 
 ## Installation
