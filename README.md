@@ -4,7 +4,7 @@
 ### Developed by
 [Softpal](https://www.github.com/softpal)
 
-[![](https://jitpack.io/v/softpal/DateTimeUtils.svg)](https://jitpack.io/#softpal/DateTimeUtils)
+[![](https://jitpack.io/v/softpal/LocationUtils.svg)](https://jitpack.io/#softpal/LocationUtils)
 
 
 **Features**
@@ -26,7 +26,7 @@ Add repository url and dependency in application module gradle file:
     
     
 ### Gradle
-[![](https://jitpack.io/v/softpal/DateTimeUtils.svg)](https://jitpack.io/#softpal/DateTimeUtils)
+[![](https://jitpack.io/v/softpal/LocationUtils.svg)](https://jitpack.io/#softpal/LocationUtils)
 ```javascript
 dependencies {
     implementation 'com.github.softpal:LocationUtils:1.0'
